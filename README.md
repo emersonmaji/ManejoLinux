@@ -1,1 +1,1 @@
-# ManejoLinux
+# manejo-linux
